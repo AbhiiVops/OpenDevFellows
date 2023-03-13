@@ -26,3 +26,7 @@ We have a variety of issues available for contributors to work on, including bug
 
 
 Thank you for your interest in OpenDevFellows, and we look forward to collaborating with you!
+
+# support 
+we as a community welcomes each contributor ..
+any one facing the issues or having doubts can contact through linkedin provided .. https://www.linkedin.com/in/abhishek-bhattacharjee-0747331a3
