@@ -56,4 +56,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 <p align="center">
 Thank you for your interest in OpenDevFellows,we look forward to collaborating with you!✨
 Happy Coding!🚀
+Excited to have you with OpenDevFellows! 
 </p>
