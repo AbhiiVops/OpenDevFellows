@@ -52,4 +52,9 @@ We have a variety of issues available for contributors to work on, including *bu
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the `LICENSE` file for details.
 
 
-<h2 align="center">Thank you for your interest in OpenDevFellows,we look forward to collaborating with you!</h2>
+<hr>
+<p align="center">
+Thank you for your interest in OpenDevFellows,we look forward to collaborating with you!✨
+Happy Coding!🚀
+Excited to have you with OpenDevFellows! 
+</p>
